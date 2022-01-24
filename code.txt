@@ -1,0 +1,14 @@
+ip = 0, cmd = 1, buf = /push/
+ip = 1, cmd = 1, buf = /push/
+ip = 2, cmd = 1, buf = /push/
+ip = 3, cmd = 2, buf = /push/
+ip = 4, cmd = 6, buf = /mul/
+ip = 5, cmd = 100, buf = /jmp/
+ip = 6, cmd = 13, buf = /jmp/
+ip = 7, cmd = 1, buf = /push/
+ip = 8, cmd = 5, buf = /push/
+ip = 9, cmd = 1, buf = /push/
+ip = 10, cmd = 6, buf = /push/
+ip = 11, cmd = 1, buf = /push/
+ip = 12, cmd = 7, buf = /push/
+ip = 13, cmd = 3, buf = /out/
